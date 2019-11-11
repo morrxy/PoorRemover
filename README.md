@@ -1,0 +1,1 @@
+use /rmpr or /removepoor to delete all gray item in your bags.
