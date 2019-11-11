@@ -1,0 +1,6 @@
+## Interface: 80205
+## Title: Poor Item Remover
+## Notes: use /rmpr to remove poor items in bags
+## Author: morrxy@gmail.com
+
+PoorRemover.lua
