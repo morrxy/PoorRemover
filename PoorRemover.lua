@@ -1,3 +1,5 @@
+local _, L = ...
+
 SLASH_REMOVEPOOR1, SLASH_REMOVEPOOR2 = '/removepoor', '/rmpr'
 
 function SlashCmdList.REMOVEPOOR(msg, editBox)
@@ -9,7 +11,7 @@ function SlashCmdList.REMOVEPOOR(msg, editBox)
                 if r == 0 then
                     PickupContainerItem(i, j)
                     DeleteCursorItem()
-                    print(k .. "was removed")
+                    print(k .. L["destroyed"])
                 end
             end
         end

@@ -1,6 +1,10 @@
 ## Interface: 80205
-## Title: Poor Item Remover
-## Notes: use /rmpr to remove poor items in bags
+## Title: Gray Item Destroyer
+## Title-zhCN: 灰色物品清理
+## Notes: use /rmpr or /removepoor to destroy gray items in bags
+## Notes-zhCN: 使用 /rmpr 或 /removepoor 摧毁包里的所有灰色物品
 ## Author: morrxy@gmail.com
 
+localization.core.lua
+localization.cn.lua
 PoorRemover.lua
